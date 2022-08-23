@@ -1,0 +1,10 @@
+.site-card-border-less-wrapper {
+    padding: 30px;
+    background: #ececec;
+  }
+
+.next-button{
+    padding: 24px;
+    padding-right: 80%;
+    text-align: center;
+}

@@ -6,6 +6,7 @@
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
+    "antd": "^4.22.6",
     "bootstrap": "^5.2.0",
     "gatsby": "^4.21.0",
     "gatsby-plugin-image": "^2.21.0",
